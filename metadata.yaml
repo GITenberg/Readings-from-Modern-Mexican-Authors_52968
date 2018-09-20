@@ -1,5 +1,8 @@
 _repo: Readings-from-Modern-Mexican-Authors_52968
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52968-h/images/cover.jpg
 creator:
   editor:
     agent_name: Starr, Frederick
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5490
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Starr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52968#Readings-from-Modern-Mexican-Authors
 gutenberg_issued: '2016-09-02'
 gutenberg_type: Text
 identifiers:
